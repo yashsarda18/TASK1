@@ -51,3 +51,7 @@ Develop a clustering algorithm that effectively groups these data points into me
 - We got 4 clusters out of this dateset.
 - Cluster 1 has 204755 points , 2 has 285243 points , 3 has 265402 points , 4 has 238753 points.
 - All the four clusters are evenly distributed with points.
+
+
+
+[Note: Download the zip file to see all the 4 clusters.]
